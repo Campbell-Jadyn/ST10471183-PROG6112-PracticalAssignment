@@ -19,7 +19,7 @@ public class Series {
 public Series () {
 this.seriesList = new ArrayList<>();
 this.scan = new Scanner(System.in);
-} //constructor 
+} //end 
 
 //Start of menu 
 public void StartMenu (){
